@@ -117,7 +117,8 @@ test/fixtures
 
 # user settings
 _user/
-
+cache.json
+quicksearches.json
 
 *.pyc
 *.*~
@@ -127,3 +128,5 @@ help/
 .idea
 .coverage
 .noseids
+
+modules/isogeo_pysdk/samples/*
